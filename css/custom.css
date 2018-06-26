@@ -9,6 +9,11 @@ section {
 ul.list {
   list-style: circle;
   padding-bottom: 20px;
+  padding-left: 10px;
+}
+
+ul.simple-list {
+    padding-left: 0;
 }
 
 ul.list ul {
@@ -22,5 +27,5 @@ ul > li {
 #tidewater {
     width:90%;
     padding:4rem;
-    background-color: rgba(0,0,0,0.6);
+    background-color: rgba(0,0,0,0.75);
 }
