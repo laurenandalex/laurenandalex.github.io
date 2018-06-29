@@ -54,6 +54,18 @@ h4.event-title {
   text-transform: uppercase;
 }
 
+h5 {
+  margin-bottom: 6px;
+}
+
 h6 {
   font-size: 14px;
+}
+
+.event-details {
+  margin-bottom: 10px;
+}
+
+.event-details span {
+  display: block;
 }
